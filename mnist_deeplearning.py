@@ -2,7 +2,6 @@ import numpy as np
 from math import exp
 import csv
 
-
 lr = float(input("initial learning rate\n"))
 
 batch_size = int(input("batch size\n"))
